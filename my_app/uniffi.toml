@@ -1,0 +1,5 @@
+[bindings.swift]
+ffi_module_name = "libForeignAsync"
+ffi_module_filename = "my_app"
+generate_module_map = false
+generate_immutable_records = true

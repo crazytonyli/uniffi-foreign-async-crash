@@ -1,0 +1,13 @@
+.DS_Store
+/target
+/swift/rust-bindings/my_core.swift
+/swift/rust-bindings/my_core.h
+/swift/rust-bindings/my_app.swift
+/swift/rust-bindings/my_app.h
+/swift/rust-bindings/Headers
+/swift/rust-bindings/*.xcframework
+/swift/rust-bindings/*.a
+/swift/Sources/RustLib/*.swift
+/swift/.swiftpm
+
+.build

@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "my_core",
+    "my_app",
+    "my_uniffi_bindgen",
+]
+resolver = "2"
+
+[workspace.dependencies]
+async-trait = "0.1"
+uniffi = "0.28"
